@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
 <h3 align="center">A passionate Junior DevOps Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveendevarapu" alt="praveendevarapu" /></a> </p>
-
 - 🔭 I’m currently working on **Different Devops Projects**
 
 - 🌱 I’m currently learning **DevOps and Cloud**
