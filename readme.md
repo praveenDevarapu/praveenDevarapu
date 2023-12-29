@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen</h1>
-<h3 align="center">A passionate Junior DevOps Engineer from India</h3>
+<h3 align="center">A passionate upcoming DevOps Engineer from India</h3>
 
 - 🔭 I’m currently working on **Different Devops Projects**
 
